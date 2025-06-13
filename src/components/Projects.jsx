@@ -11,84 +11,84 @@ const projectBaseData = [
   { 
     id: 'proj1', 
     images: [
-      "/images/bsi.jpg",
+      process.env.PUBLIC_URL + "/images/bsi.jpg",
     ],
     link: "#" 
   },
   { 
     id: 'proj2', 
     images: [
-      "/images/bkc.png",
-      "/images/image2.jpeg",
-      "/images/image3.jpeg"
+      process.env.PUBLIC_URL + "/images/bkc.png",
+      process.env.PUBLIC_URL + "/images/image2.jpeg",
+      process.env.PUBLIC_URL + "/images/image3.jpeg"
     ],
     link: "#" 
   },
   { 
     id: 'proj3', 
     images: [
-      "/images/brs.jpeg"
+      process.env.PUBLIC_URL + "/images/brs.jpeg"
     ],
     link: "#" 
   },
   { 
     id: 'proj4', 
     images: [
-      "/images/react.png"
+      process.env.PUBLIC_URL + "/images/react.png"
     ],
     link: "#" 
   },
   { 
     id: 'proj5',
     images: [
-      "/images/image1.jpeg",
-      "/images/image2.jpeg",
-      "/images/image3.jpeg"
+      process.env.PUBLIC_URL + "/images/image1.jpeg",
+      process.env.PUBLIC_URL + "/images/image2.jpeg",
+      process.env.PUBLIC_URL + "/images/image3.jpeg"
     ],
     link: "#" 
   },
   { 
     id: 'proj6', 
     images: [
-      "/images/image1.jpeg",
-      "/images/image2.jpeg",
-      "/images/image3.jpeg"
+      process.env.PUBLIC_URL + "/images/image1.jpeg",
+      process.env.PUBLIC_URL + "/images/image2.jpeg",
+      process.env.PUBLIC_URL + "/images/image3.jpeg"
     ],
     link: "#" 
   },
   { 
     id: 'proj7', 
     images: [
-      "/images/image1.jpeg",
-      "/images/image2.jpeg",
-      "/images/image3.jpeg"
+      process.env.PUBLIC_URL + "/images/image1.jpeg",
+      process.env.PUBLIC_URL + "/images/image2.jpeg",
+      process.env.PUBLIC_URL + "/images/image3.jpeg"
     ],
     link: "#" 
   },
   { 
     id: 'proj8', 
     images: [
-      "/images/image1.jpeg",
-      "/images/image2.jpeg",
-      "/images/image3.jpeg"
+      process.env.PUBLIC_URL + "/images/image1.jpeg",
+      process.env.PUBLIC_URL + "/images/image2.jpeg",
+      process.env.PUBLIC_URL + "/images/image3.jpeg"
     ],
     link: "#" 
   },
   { 
     id: 'proj9', 
     images: [
-      "/images/image1.jpeg",
-      "/images/image2.jpeg",
-      "/images/image3.jpeg"
+      process.env.PUBLIC_URL + "/images/image1.jpeg",
+      process.env.PUBLIC_URL + "/images/image2.jpeg",
+      process.env.PUBLIC_URL + "/images/image3.jpeg"
     ],
     link: "#" 
   },
   { 
     id: 'proj10', 
     images: [
-      "/images/image1.jpeg",
-      "/images/image2.jpeg",
-      "/images/image3.jpeg"
+      process.env.PUBLIC_URL + "/images/image1.jpeg",
+      process.env.PUBLIC_URL + "/images/image2.jpeg",
+      process.env.PUBLIC_URL + "/images/image3.jpeg"
     ],
     link: "#" 
   },

@@ -23,7 +23,8 @@ i18n
     },
     backend: {
       // Pfad, wo deine Übersetzungsdateien liegen (im public-Ordner)
-      loadPath: '/locales/{{lng}}/{{ns}}.json',
+      loadPath: process.env.PUBLIC_URL + '/locales/{{lng}}/{{ns}}.json',
+
     },
     interpolation: {
       escapeValue: false, // React schützt bereits vor XSS

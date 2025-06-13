@@ -3,7 +3,7 @@ import './TimelineEvents.css';
 import { useTranslation } from 'react-i18next';
 
 const eventLogos = [
-  "images/uni.jpg",
+  "/images/uni.jpg",
   "/images/fkie.png",
   "/images/bsi.jpg",
   "/images/htg.jpg"

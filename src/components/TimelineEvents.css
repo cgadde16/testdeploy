@@ -75,7 +75,7 @@
   font-size: 2rem;
   color: #000;
   line-height: 1.2;
-  text-align: right;
+  text-align: left;
 }
 
 .event-card .event-date {
@@ -84,7 +84,7 @@
   margin-top: 0.5rem;
   margin-bottom: 1rem;
   font-style: italic;
-  text-align: right;
+  text-align: left;
   
 }
 
